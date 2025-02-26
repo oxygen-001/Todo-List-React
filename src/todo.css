@@ -78,3 +78,8 @@
 .todo-delete-button:hover {
   color: darkred;
 }
+
+.something {
+  width: 400px;
+  align-items: center;
+}
